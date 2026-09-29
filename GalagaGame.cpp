@@ -1,6 +1,4 @@
-// Galaga-style game (requires raylib: https://www.raylib.com/)
-// Put your MP3 beside the executable and name it "ship_destroyed.mp3".
-// Example build: g++ GalagaGame.cpp -std=c++17 -lraylib -lopengl32 -lgdi32 -lwinmm
+// Galaga-style game
 #include "raylib.h"
 #include <algorithm>
 #include <cmath>
